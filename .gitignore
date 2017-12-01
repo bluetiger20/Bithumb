@@ -4,4 +4,7 @@ build/
 *.iml
 gradle/
 gradlew
-gradlw.bat
+gradlew.bat
+*.bat
+local.properties
+settings.gradle
